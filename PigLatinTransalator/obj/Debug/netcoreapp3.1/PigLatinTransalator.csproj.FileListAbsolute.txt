@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\BezaoII\PigLatinTransalator\bin\Debug\netcoreapp3.1\PigLatinTransalator.exe
+C:\Users\User\source\repos\BezaoII\PigLatinTransalator\bin\Debug\netcoreapp3.1\PigLatinTransalator.deps.json
+C:\Users\User\source\repos\BezaoII\PigLatinTransalator\bin\Debug\netcoreapp3.1\PigLatinTransalator.runtimeconfig.json
+C:\Users\User\source\repos\BezaoII\PigLatinTransalator\bin\Debug\netcoreapp3.1\PigLatinTransalator.runtimeconfig.dev.json
+C:\Users\User\source\repos\BezaoII\PigLatinTransalator\bin\Debug\netcoreapp3.1\PigLatinTransalator.dll
+C:\Users\User\source\repos\BezaoII\PigLatinTransalator\bin\Debug\netcoreapp3.1\PigLatinTransalator.pdb
+C:\Users\User\source\repos\BezaoII\PigLatinTransalator\obj\Debug\netcoreapp3.1\PigLatinTransalator.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\BezaoII\PigLatinTransalator\obj\Debug\netcoreapp3.1\PigLatinTransalator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\BezaoII\PigLatinTransalator\obj\Debug\netcoreapp3.1\PigLatinTransalator.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\BezaoII\PigLatinTransalator\obj\Debug\netcoreapp3.1\PigLatinTransalator.AssemblyInfo.cs
+C:\Users\User\source\repos\BezaoII\PigLatinTransalator\obj\Debug\netcoreapp3.1\PigLatinTransalator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BezaoII\PigLatinTransalator\obj\Debug\netcoreapp3.1\PigLatinTransalator.dll
+C:\Users\User\source\repos\BezaoII\PigLatinTransalator\obj\Debug\netcoreapp3.1\PigLatinTransalator.pdb
+C:\Users\User\source\repos\BezaoII\PigLatinTransalator\obj\Debug\netcoreapp3.1\PigLatinTransalator.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\BezaoII\Next_20_leap_years\bin\Debug\netcoreapp3.1\Next_20_leap_years.exe
+C:\Users\User\source\repos\BezaoII\Next_20_leap_years\bin\Debug\netcoreapp3.1\Next_20_leap_years.deps.json
+C:\Users\User\source\repos\BezaoII\Next_20_leap_years\bin\Debug\netcoreapp3.1\Next_20_leap_years.runtimeconfig.json
+C:\Users\User\source\repos\BezaoII\Next_20_leap_years\bin\Debug\netcoreapp3.1\Next_20_leap_years.runtimeconfig.dev.json
+C:\Users\User\source\repos\BezaoII\Next_20_leap_years\bin\Debug\netcoreapp3.1\Next_20_leap_years.dll
+C:\Users\User\source\repos\BezaoII\Next_20_leap_years\bin\Debug\netcoreapp3.1\Next_20_leap_years.pdb
+C:\Users\User\source\repos\BezaoII\Next_20_leap_years\obj\Debug\netcoreapp3.1\Next_20_leap_years.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\BezaoII\Next_20_leap_years\obj\Debug\netcoreapp3.1\Next_20_leap_years.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\BezaoII\Next_20_leap_years\obj\Debug\netcoreapp3.1\Next_20_leap_years.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\BezaoII\Next_20_leap_years\obj\Debug\netcoreapp3.1\Next_20_leap_years.AssemblyInfo.cs
+C:\Users\User\source\repos\BezaoII\Next_20_leap_years\obj\Debug\netcoreapp3.1\Next_20_leap_years.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BezaoII\Next_20_leap_years\obj\Debug\netcoreapp3.1\Next_20_leap_years.dll
+C:\Users\User\source\repos\BezaoII\Next_20_leap_years\obj\Debug\netcoreapp3.1\Next_20_leap_years.pdb
+C:\Users\User\source\repos\BezaoII\Next_20_leap_years\obj\Debug\netcoreapp3.1\Next_20_leap_years.genruntimeconfig.cache
